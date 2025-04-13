@@ -1,0 +1,1 @@
+{\n  \"compilerOptions\": {\n    \"target\": \"ESNext\",\n    \"module\": \"ESNext\",\n    \"moduleResolution\": \"node\",\n    \"allowSyntheticDefaultImports\": true,\n    \"esModuleInterop\": true,\n    \"jsx\": \"preserve\",\n    \"jsxImportSource\": \"solid-js\",\n    \"strict\": true,\n    \"types\": [\"vite/client\"]\n  },\n  \"include\": [\"src\"]\n}
